@@ -1,0 +1,7 @@
+5.
+The first example returns 3, 1 is added to 0 3 times using the =+1 operator.
+
+The second example returns an error as 'x' isn't declared outside the scope of the times block of code meaning when the compiler tries to return x it can't as it was never declared outside the block.
+
+6.
+A variable or method called 'shoes' had never been declared. Or it could be outside the scope of the code that is trying to call it.
