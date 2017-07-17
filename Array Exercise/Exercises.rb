@@ -28,4 +28,12 @@ end
 # => rename the fourth element as jody.
 # =>  To do this correctly use the element number and not the name .
 
-#7. 
+#7.
+array = [1,2,3,4,5,6,7,8,9,10]
+
+array2 = array.map do |number|
+  number + 2
+end
+
+p array
+p array2
